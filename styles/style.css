@@ -1,0 +1,30 @@
+.image-1 {
+    background-image: url(../images/carousel/1.jpg);
+    height: 100vh;
+
+}
+
+.image-2 {
+    background-image: url(../images/carousel/2.jpg);
+    height: 100vh;
+
+}
+
+.image-3 {
+    background-image: url(../images/carousel/4.jpg);
+    height: 100vh;
+
+}
+
+.card-height {
+    height: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.text-center:hover {
+    transform: scale(1.1);
+}
+
+.text-center {
+    transition: transform .5s;
+}
