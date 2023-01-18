@@ -28,3 +28,6 @@
 .text-center {
     transition: transform .5s;
 }
+.copyright{
+    text-align: center;
+}
